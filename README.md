@@ -16,7 +16,7 @@ for a Simple Calculator Application.
 - Boundary testing
 
 ### Files Included
-- Task-01_TestCases.md → Detailed test case documentation
+- TestCases.md → Detailed test case documentation
 
 ---
 
